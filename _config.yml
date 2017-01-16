@@ -1,7 +1,7 @@
 # Site settings
-title: Nelson R. Salinas
-tag_text: Nelson
-description: Personal website.
+title: Nelson's website
+tag_text: Nelson R. Salinas
+description: This is my a website.
 
 # Build settings
 markdown: kramdown

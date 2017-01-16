@@ -11,20 +11,19 @@ You can access my cv here.
 
 ### Contact
 
-Nelson R. Salinas
-Gerstner Postdoctoral Fellow
-Invertebrate Zoology Division
-American Museum of Natural History	
-Central Park West at 79th Street
-New York, NY 10024-5192
-Tel. 212-313-7622
+Nelson R. Salinas  
+Gerstner Postdoctoral Fellow  
+Invertebrate Zoology Division  
+American Museum of Natural History  	
+Central Park West at 79th Street  
+New York, NY 10024-5192  
 
 ### Research interest
 
-1. Neotropical plant diversity and systematics.
+__1. Neotropical plant diversity and systematics.__
 
 Tropical forests gather some of the most diverse, yet endangered, ecosystems in the planet. An strategy to tackle this problem is to gather basic biological information of organisms and ecosystems that are particularly affected by anthropogenic activities. I have worked on systematics of Bromeliaceae, Costaceae, and Ericaceae, and conducted general diversity surveys in Amazonian, Andean, and Choco forest from my home country, Colombia.
 
-2. Biogeography.
+__2. Biogeography.__
 
 Recognizing spatial patterns (biogeographic regions, areas of endemism, etc.) from geographic distributions of organisms is one of the main tasks of biogeographic. However, biogeography has been marginalized from the statistical revolution that has recently transformed other subdisciplines of comparative biology. As a way to contribute towards such goals, I am currently working on the implementation of a kind of graphical statistical models (Hidden Markov Random Fields) to uncover areas of endemism from geographic distribution data.

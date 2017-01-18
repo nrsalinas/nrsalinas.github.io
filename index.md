@@ -7,9 +7,9 @@ Hola. Welcome to my personal website.
 Here you will find info about my research and academic activities. Although I have spent most of my career working on diversity, conservation, and evolutionary biology of Neotropical plants, I have become interested on biodiversity informatics during the last few years.
 
 Currently, I am a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of Ward Wheeler.
-My postdoctoral project at the museum aims to implement graph statistical models to study patterns of geographic distributions among multiple organisms---that is, to delimit areas of endemism.
+My postdoctoral project at the museum aims to implement graph statistical models to study patterns of geographic distributions among multiple organisms; that is, to delimit areas of endemism.
 
-Prior to this appointment, I was brieftly a postdoctoral fellow at [Fundación La Palmita](http://lapalmita.com.co/pagina/) and a graduate student at the New York Botanical Garden--City University of New York [joint program](http://www.nybg.org/science-new/about/CMP-Graduate-Studies.php).
+Prior to this appointment, I was brieftly a research associate at [Fundación La Palmita](http://lapalmita.com.co/pagina/) and a doctoral student at the New York Botanical Garden--City University of New York joint [graduate program](http://www.nybg.org/science-new/about/CMP-Graduate-Studies.php).
 
 You can access my cv [here](nrsalinas_cv.pdf).
 
@@ -18,7 +18,7 @@ You can access my cv [here](nrsalinas_cv.pdf).
 Nelson R. Salinas  
 Gerstner Postdoctoral Fellow  
 Invertebrate Zoology Division  
-American Museum of Natural History  	
+American Museum of Natural History  
 Central Park West at 79th Street  
 New York, NY 10024-5192  
 nrsalinas@gmail.com

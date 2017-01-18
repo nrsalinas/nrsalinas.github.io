@@ -32,3 +32,5 @@ Tropical forests gather some of the most diverse, yet endangered, ecosystems in 
 __2. Biogeography.__
 
 Recognizing spatial patterns (biogeographic regions, areas of endemism, etc.) from geographic distributions of organisms is one of the main tasks of biogeographic. However, biogeography has been marginalized from the statistical revolution that has recently transformed other subdisciplines of comparative biology. As a way to contribute towards such goals, I am currently working on the implementation of a kind of graphical statistical models (Hidden Markov Random Fields) to uncover areas of endemism from geographic distribution data.
+
+This website is hosted by GitHub Pages, and generated through the Jekyll theme [Solo](http://chibicode.github.io/solo) by Shu Uesugi.

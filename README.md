@@ -1,9 +1,3 @@
-This website is based on Jekyll theme Solo by Shu Uesugi.
+# nrsalinas.github.io
 
-----
-
-# Solo 
-
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
-
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+Personal website of Nelson Salinas. It is based on Jekyll theme [Solo](http://chibicode.github.io/solo) by Shu Uesugi.

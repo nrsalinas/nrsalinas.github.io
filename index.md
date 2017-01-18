@@ -11,7 +11,7 @@ My postdoctoral project at the museum aims to implement graph statistical models
 
 Prior to this appointment, I was brieftly a postdoctoral fellow at [Fundación La Palmita](http://lapalmita.com.co/pagina/) and a graduate student at the New York Botanical Garden--City University of New York [joint program](http://www.nybg.org/science-new/about/CMP-Graduate-Studies.php).
 
-You can access my cv here.
+You can access my cv [here](nrsalinas_cv.pdf).
 
 ### Contact
 

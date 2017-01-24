@@ -9,7 +9,7 @@ Here you will find info about my research and academic activities. Although I ha
 Currently, I am a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of Ward Wheeler.
 My postdoctoral project aims to implement graph statistical models to study patterns of geographic distributions among multiple organisms; that is, to delimit areas of endemism.
 
-Prior to this appointment, I was brieftly a research associate at [Fundación La Palmita](http://lapalmita.com.co/pagina/) (assessing the diversity and conservation status of plant communities in E Colombian), and a doctoral student at the New York Botanical Garden--City University of New York joint [graduate program](http://www.nybg.org/science-new/about/CMP-Graduate-Studies.php) (working on systematics of Neotropical Blueberries).
+Prior to this appointment, I was brieftly a research associate at [Fundación La Palmita](http://lapalmita.com.co/pagina/) (assessing the diversity and conservation status of plant communities in E Colombia), and a doctoral student at the New York Botanical Garden--City University of New York joint [graduate program](http://www.nybg.org/science-new/about/CMP-Graduate-Studies.php) (working on systematics of Neotropical Blueberries).
 
 You can access my cv [here](nrsalinas_cv.pdf).
 

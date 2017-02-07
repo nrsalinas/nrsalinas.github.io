@@ -6,7 +6,7 @@ Hola. Welcome to my personal website.
 
 Here you will find info about my research and academic activities. Although I have spent most of my career working on diversity, conservation, and evolutionary biology of Neotropical plants, I have become interested on biodiversity informatics during the last few years.
 
-Currently, I am a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of Ward Wheeler.
+Currently, I am a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of [Ward Wheeler](https://wardwheeler.wordpress.com/).
 My postdoctoral project aims to implement graph statistical models to study patterns of geographic distributions among multiple organisms; that is, to delimit areas of endemism.
 
 Prior to this appointment, I was brieftly a research associate at [Fundación La Palmita](http://lapalmita.com.co/pagina/) (assessing the diversity and conservation status of plant communities in E Colombia), and a doctoral student at the New York Botanical Garden--City University of New York joint [graduate program](http://www.nybg.org/science-new/about/CMP-Graduate-Studies.php) (working on systematics of Neotropical Blueberries).
@@ -26,7 +26,7 @@ Tropical forests are some of the most diverse, yet endangered, ecosystems on the
 
 __2. Biogeography.__
 
-Recognizing spatial patterns (biogeographic regions, areas of endemism, etc.) from geographic distributions of organisms is one of the main tasks of biogeographic. However, biogeography has been marginalized from the statistical revolution that has recently transformed other subdisciplines of comparative biology. As a way to contribute towards such goals, I am currently working on the implementation of a kind of graphical statistical models (Hidden Markov Random Fields) to uncover areas of endemism from geographic distribution data.
+Recognizing spatial patterns (biogeographic regions, areas of endemism, etc.) from geographic distributions of organisms is one of the main tasks of biogeography. However, biogeography has been marginalized from the statistical revolution that has recently transformed other subdisciplines of comparative biology. As a way to contribute towards such goals, I am currently working on the implementation of a kind of graphical statistical models (Hidden Markov Random Fields) to uncover areas of endemism from geographic distribution data.
 
 ### Contact
 

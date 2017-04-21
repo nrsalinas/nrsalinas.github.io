@@ -20,7 +20,7 @@ You can access my cv [here](nrsalinas_cv.pdf).
 
 __1. Neotropical plant diversity and systematics.__
 
-Tropical forests are some of the most diverse, yet endangered, ecosystems on the planet. An strategy to tackle this problem is to gather basic biological information of organisms and ecosystems that are particularly affected by anthropogenic activities. I have worked on systematics of Bromeliaceae, Costaceae, and Ericaceae, and conducted general diversity surveys in Amazonian, Andean, and Choco forest from my home country, Colombia. I have conducted most of this work with collaborators form the [Instituto de Ciencias Naturales](http://ciencias.bogota.unal.edu.co/icn/ "ICN"), [Instituto Sinchi](http://www.sinchi.org.co/), and the [New York Botanical Garden](http://www.nybg.org/science-new/).
+Tropical forests are some of the most diverse, yet endangered, ecosystems on the planet. An strategy to tackle this problem is to gather basic biological information of organisms and ecosystems that are particularly affected by anthropogenic activities. I have worked on systematics of Bromeliaceae, Costaceae, and Ericaceae, and conducted general diversity surveys in Amazonian, Andean, and Choco forest from my home country, Colombia. I have conducted most of this work with collaborators from the [Instituto de Ciencias Naturales](http://ciencias.bogota.unal.edu.co/icn/ "ICN"), [Instituto Sinchi](http://www.sinchi.org.co/), and the [New York Botanical Garden](http://www.nybg.org/science-new/).
 
 ![](IMG_5189.png "Orthaea cordata")
 

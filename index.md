@@ -6,7 +6,7 @@ Hola. Welcome to my personal website.
 
 Here you will find info about my research and academic activities. I am a botanist who has worked mostly on diversity, conservation, and evolutionary biology of Neotropical plants. However, during the last few years I have also become interested on biodiversity informatics and computational biology.
 
-Currently, I am a data science consultor at the [Instituto de Hidrología, Metereología y Estudios Ambientales IDEAM](http://www.ideam.gov.co/ "IDEAM"). My work at IDEAM aims to estimate the carbon stock in Colombian forests from a variety of data sources, and improve the computational methods that are used for that purpose.
+Currently, I am a data science consultant at the [Instituto de Hidrología, Metereología y Estudios Ambientales IDEAM](http://www.ideam.gov.co/ "IDEAM"). My work at IDEAM aims to estimate the carbon stock in Colombian forests from a variety of data sources, and improve the computational methods that are used for that purpose.
 
 Prior to this appointment, I was a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of [Ward Wheeler](https://wardwheeler.wordpress.com/).
 My postdoctoral project sought to implement graph statistical models to study patterns of geographic distributions among multiple organisms; that is, to delimit areas of endemism.

@@ -6,21 +6,23 @@ Hola. Welcome to my personal website.
 
 Here you will find info about my research and academic activities. I am a botanist who has worked mostly on diversity, conservation, and evolutionary biology of Neotropical plants. However, during the last few years I have also become interested on biodiversity informatics and computational biology.
 
-Currently, I am a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of [Ward Wheeler](https://wardwheeler.wordpress.com/).
-My postdoctoral project aims to implement graph statistical models to study patterns of geographic distributions among multiple organisms; that is, to delimit areas of endemism.
+Currently, I am a data science consultor at the [Instituto de Hidrología, Metereología y Estudios Ambientales IDEAM](http://www.ideam.gov.co/ "IDEAM"). My work at IDEAM aims to estimate the carbon stock in Colombian forests from a variety of data sources, and improve the computational methods that are used for that purpose.
 
-Prior to this appointment, I was brieftly a research associate at [Fundación La Palmita](http://lapalmita.com.co/pagina/) (assessing the diversity and conservation status of plant communities in E Colombia), and a doctoral student at the New York Botanical Garden--City University of New York joint [graduate program](http://www.nybg.org/science-new/about/CMP-Graduate-Studies.php) (working on systematics of Neotropical Blueberries).
+Prior to this appointment, I was a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of [Ward Wheeler](https://wardwheeler.wordpress.com/).
+My postdoctoral project sought to implement graph statistical models to study patterns of geographic distributions among multiple organisms; that is, to delimit areas of endemism.
 
-You can access my cv [here](nrsalinas_cv.pdf), and my Github repositories [here](https://github.com/nrsalinas/).
+I was also a research associate at [Fundación La Palmita](http://lapalmita.com.co/pagina/) (assessing the diversity and conservation status of plant communities in E Colombia), and a doctoral student at the New York Botanical Garden--City University of New York joint [graduate program](https://www.nybg.org/plant-research-and-conservation/about/education-and-outreach/commodore-matthew-perry-graduate-studies-program/ "Commodore Matthew Perry graduate program at NYBG") (working on systematics of Neotropical Blueberries).
 
-![alt text](Collecting.jpg "Collecting plants in Norte de Santander, Colombia")
+You can access my cv [here](nrsalinas_cv.pdf "Nelson Salinas CV").
+
+![](Collecting.jpg "Collecting plants in Norte de Santander, Colombia")
 
 
 ## Research interests
 
 __1. Neotropical plant diversity and systematics.__
 
-Tropical forests are some of the most diverse, yet endangered, ecosystems on the planet. An strategy to tackle this problem is to gather basic biological information of organisms and ecosystems that are particularly affected by anthropogenic activities. I have worked on systematics of Bromeliaceae (pineapples), Costaceae (spiral gingers), and Ericaceae (blueberries), and conducted general diversity surveys in Amazonian, Andean, and Choco forest from my home country, Colombia. I have conducted most of this work with collaborators from the [Instituto de Ciencias Naturales](http://ciencias.bogota.unal.edu.co/icn/ "ICN"), [Instituto Sinchi](http://www.sinchi.org.co/), and the [New York Botanical Garden](http://www.nybg.org/science-new/).
+Tropical forests are some of the most diverse, yet endangered, ecosystems on the planet. An strategy to tackle this problem is to gather basic biological information of organisms and ecosystems that are particularly affected by anthropogenic activities. I have worked on systematics of Bromeliaceae (pineapples), Costaceae (spiral gingers), and Ericaceae (blueberries), and conducted general diversity surveys in Amazonian, Andean, and Choco forests from my home country, Colombia. I have conducted most of this work with collaborators from the [Instituto de Ciencias Naturales](http://ciencias.bogota.unal.edu.co/icn/ "ICN"), [Instituto Sinchi](http://www.sinchi.org.co/), and the [New York Botanical Garden](http://www.nybg.org/science-new/).
 
 ![](Orthaea_cordata.jpg "Orthaea cordata")
 
@@ -31,11 +33,6 @@ Recognizing spatial patterns (biogeographic regions, areas of endemism, etc.) fr
 ### Contact
 
 Nelson R. Salinas  
-Gerstner Postdoctoral Fellow  
-Invertebrate Zoology Division  
-American Museum of Natural History  
-Central Park West at 79th Street  
-New York, NY 10024-5192  
 nrsalinas@gmail.com
 
 ______

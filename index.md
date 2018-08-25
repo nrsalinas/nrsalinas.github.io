@@ -24,6 +24,10 @@ __1. Neotropical plant diversity and systematics.__
 
 Tropical forests are some of the most diverse, yet endangered, ecosystems on the planet. An strategy to tackle this problem is to gather basic biological information of organisms and ecosystems that are particularly affected by anthropogenic activities. I have worked on systematics of Bromeliaceae (pineapples), Costaceae (spiral gingers), and Ericaceae (blueberries), and conducted general diversity surveys in Amazonian, Andean, and Choco forests from my home country, Colombia. I have conducted most of this work with collaborators from the [Instituto de Ciencias Naturales](http://ciencias.bogota.unal.edu.co/icn/ "ICN"), [Instituto Sinchi](http://www.sinchi.org.co/), and the [New York Botanical Garden](http://www.nybg.org/science-new/).
 
+Relevant output:
+
+1. [Guide](Ericaceae_Narino.pdf "Las ericáceas de la vertiente pacífica de Nariño, Colombia") to the Ericaeae from W Nariño.
+
 ![](Orthaea_cordata.jpg "Orthaea cordata")
 
 __2. Biogeography.__

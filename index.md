@@ -26,7 +26,7 @@ Tropical forests are some of the most diverse, yet endangered, ecosystems on the
 
 Relevant output:
 
-1. [Guide](Ericaceae_Narino.pdf "Las ericáceas de la vertiente pacífica de Nariño, Colombia") to the Ericaeae from W Nariño.
+- [Guide](Ericaceae_Narino.pdf "Las ericáceas de la vertiente pacífica de Nariño, Colombia") to the Ericaeae from W Nariño.
 
 ![](Orthaea_cordata.jpg "Orthaea cordata")
 

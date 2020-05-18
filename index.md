@@ -6,12 +6,7 @@ Hola. Welcome to my personal website.
 
 Here you will find info about my research and academic activities. I am a botanist who has worked mostly on diversity, conservation, and evolutionary biology of Neotropical plants. However, during the last few years I have also become interested on biodiversity informatics and computational biology.
 
-Currently, I am a data analyst at the [Instituto de Hidrología, Metereología y Estudios Ambientales IDEAM](http://www.ideam.gov.co/ "IDEAM"). My work at IDEAM aims to estimate the carbon stock in Colombian forests from a variety of data sources, and improve the computational methods that are used for that purpose.
-
-Prior to this appointment, I was a Gerstner postdoctoral fellow at the American Museum of Natural History, working under the supervision of [Ward Wheeler](https://wardwheeler.wordpress.com/).
-My postdoctoral project sought to implement graph statistical models to study patterns of geographic distributions among multiple organisms; that is, to delimit areas of endemism.
-
-I was also a research associate at [Fundación La Palmita](http://lapalmita.com.co/pagina/) (assessing the diversity and conservation status of plant communities in E Colombia), and a doctoral student at the New York Botanical Garden--City University of New York joint [graduate program](https://www.nybg.org/plant-research-and-conservation/about/education-and-outreach/commodore-matthew-perry-graduate-studies-program/ "Commodore Matthew Perry graduate program at NYBG") (working on systematics of Neotropical Blueberries).
+Currently, I am a postdoctoral fellow at the [Instituto Alexander von Humboldt](http://www.humboldt.org.co/ "Instituto Humboldt"). Through this appointment, I am developing computational methods to optimize the delimitation of [Key Biodiversity Areas](http://www.keybiodiversityareas.org/what-are-kbas "What are KBAs?"). Prior to this appointment, I was a data analyst at [IDEAM](http://www.ideam.gov.co/ "IDEAM") and the [Instituto Sinchi](https://sinchi.org.co "Sinchi"), and a postdoctoral fellow at the American Museum of Natural History.
 
 You can access my cv [here](nrsalinas_cv.pdf "Nelson Salinas CV").
 
@@ -19,6 +14,7 @@ You can access my cv [here](nrsalinas_cv.pdf "Nelson Salinas CV").
 
 
 ## Research interests
+
 
 __1. Neotropical plant diversity and systematics.__
 
@@ -30,9 +26,16 @@ Relevant output:
 
 ![](Orthaea_cordata.jpg "Orthaea cordata")
 
+
+
 __2. Biogeography.__
 
-Recognizing spatial patterns (biogeographic regions, areas of endemism, etc.) from geographic distributions of organisms is one of the main tasks of biogeography. However, biogeography has been marginalized from the statistical revolution that has recently transformed other subdisciplines of comparative biology. As a way to contribute towards such goals, I am currently working on the implementation of a kind of graphical statistical models (Hidden Markov Random Fields) to uncover areas of endemism from geographic distribution data.
+Recognizing spatial patterns (biogeographic regions, areas of endemism, etc.) from geographic distributions of organisms is one of the main tasks of biogeography. However, biogeography has been marginalized from the statistical revolution that has recently transformed other subdisciplines of comparative biology. As a way to contribute towards such goals, I have worked on the implementation of a graphical statistical model (Hidden Markov Random Fields) to uncover areas of endemism from geographic distribution data.
+
+Relevant output:
+
+- [Statistical Modeling of Distribution Patterns: A Markov Random Field Implementation and Its Application on Areas of Endemism](Salinas_Wheeler_2020.pdf "HMRF article").
+
 
 ### Contact
 

@@ -6,7 +6,7 @@ Hola. Welcome to my personal website.
 
 Here you will find info about my research and academic activities. I am a botanist who has worked mostly on diversity, conservation, and evolutionary biology of Neotropical plants. However, during the last few years I have also become interested on biodiversity informatics and computational biology.
 
-Currently, I am a postdoctoral fellow at the [Instituto Alexander von Humboldt](http://www.humboldt.org.co/ "Instituto Humboldt"). Through this appointment, I am developing computational methods to optimize the delimitation of [Key Biodiversity Areas](http://www.keybiodiversityareas.org/what-are-kbas "What are KBAs?"). Prior to this appointment, I was a data analyst at [IDEAM](http://www.ideam.gov.co/ "IDEAM") and the [Instituto Sinchi](https://sinchi.org.co "Sinchi"), and a postdoctoral fellow at the American Museum of Natural History.
+Currently, I am a postdoctoral associate at the [New York Botanical Garden](https://www.nybg.org/plant-research-and-conservation/ "NYBG"). Through this appointment, I am developing computational methods to optimize genomic analyses of a peculiar group of gymnosperms, often refered to as ["living fossils"](http://livingfossils.org/ "Living fossils"). Prior to this appointment, I was a researcher at the [Instituto Humboldt](http://www.humboldt.org.co/en/ "Instituto Humboldt"), a data analyst at [IDEAM](http://www.ideam.gov.co/ "IDEAM") and the [Instituto Sinchi](https://sinchi.org.co "Sinchi"), and a postdoctoral fellow at the [American Museum of Natural History](https://www.amnh.org/about/gilder-center "AMNH").
 
 You can access my cv [here](nrsalinas_cv.pdf "Nelson Salinas CV").
 
@@ -40,7 +40,13 @@ Relevant output:
 ### Contact
 
 Nelson R. Salinas  
-nrsalinas@gmail.com
+nrsalinas@gmail.com  
+Bioinformatics Postdoctoral Research Associate  
+Pfizer Plant Research Laboratory  
+New York Botanical Garden  
+2900 Southern Blvd.  
+The Bronx  
+NY, 10458  
 
 ______
 

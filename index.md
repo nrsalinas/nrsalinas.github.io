@@ -6,7 +6,7 @@ Hola. Welcome to my personal website.
 
 Here you will find info about my research and academic activities. I am a botanist who has worked mostly on diversity, conservation, and evolutionary biology of Neotropical plants. However, during the last few years I have also become interested on biodiversity informatics and computational biology.
 
-Currently, I am a postdoctoral associate at the [New York Botanical Garden](https://www.nybg.org/plant-research-and-conservation/ "NYBG"). Through this appointment, I am developing computational methods to optimize genomic analyses of a peculiar group of gymnosperms, often refered to as ["living fossils"](http://livingfossils.org/ "Living fossils"). Prior to this appointment, I was a researcher at the [Instituto Humboldt](http://www.humboldt.org.co/en/ "Instituto Humboldt"), a data analyst at [IDEAM](http://www.ideam.gov.co/ "IDEAM") and the [Instituto Sinchi](https://sinchi.org.co "Sinchi"), and a postdoctoral fellow at the [American Museum of Natural History](https://www.amnh.org/about/gilder-center "AMNH").
+Currently, I am a data analyst at the [Instituto Sinchi](https://sinchi.org.co "Sinchi"). Through this appointment, I am studying the dynamics of plant diversity in the Amazon region of Colombia, using the excellent resources of the Colombian Amazonian Herbarium. Prior to this appointment, I was a researcher at the [Instituto Humboldt](http://www.humboldt.org.co/en/ "Instituto Humboldt"), a data analyst at [IDEAM](http://www.ideam.gov.co/ "IDEAM") and the [Instituto Sinchi](https://sinchi.org.co "Sinchi"), and a postdoctoral fellow at the [American Museum of Natural History](https://www.amnh.org/about/gilder-center "AMNH") and [New York Botanical Garden](https://www.nybg.org/plant-research-and-conservation/ "NYBG").
 
 You can access my cv [here](nrsalinas_cv.pdf "Nelson Salinas CV").
 
@@ -41,12 +41,10 @@ Relevant output:
 
 Nelson R. Salinas  
 nrsalinas@gmail.com  
-Bioinformatics Postdoctoral Research Associate  
-Pfizer Plant Research Laboratory  
-New York Botanical Garden  
-2900 Southern Blvd.  
-The Bronx  
-NY, 10458  
+Data Analyst Consultant  
+Herbario Amazonico Colombiano COAH
+Instituto Amazónico de Investigaciones Científicas Sinchi
+Bogotá 
 
 ______
 

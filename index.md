@@ -41,11 +41,11 @@ Relevant output:
 
 ### Contact
 
-Nelson R. Salinas  
+Nelson R. Salinas   
 nrsalinas@gmail.com  
-Data Analyst 
-In Situ Conservation Program  
-Jardín Botánico de Bogotá  
+Data Analyst   
+In Situ Conservation Program   
+Jardín Botánico de Bogotá   
 Bogotá  
 
 ______

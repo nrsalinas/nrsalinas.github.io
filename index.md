@@ -6,7 +6,9 @@ Hola. Welcome to my personal website.
 
 Here you will find info about my research and academic activities. I am a botanist who has worked mostly on diversity, conservation, and evolutionary biology of Neotropical plants. However, during the last few years I have also become interested on biodiversity informatics and computational biology.
 
-Currently, I am a data analyst at the [Instituto Sinchi](https://sinchi.org.co "Sinchi"). Through this appointment, I am studying the dynamics of plant diversity in the Amazon region of Colombia, using the excellent resources of the Colombian Amazonian Herbarium. Prior to this appointment, I was a researcher at the [Instituto Humboldt](http://www.humboldt.org.co/en/ "Instituto Humboldt"), a data analyst at [IDEAM](http://www.ideam.gov.co/ "IDEAM") and the [Instituto Sinchi](https://sinchi.org.co "Sinchi"), and a postdoctoral fellow at the [American Museum of Natural History](https://www.amnh.org/about/gilder-center "AMNH") and the [New York Botanical Garden](https://www.nybg.org/plant-research-and-conservation/ "NYBG").
+Currently, I am a data analyst at the [Jardín Botánico de Bogotá](https://jbb.gov.co/ "JBB"). 
+Through this appointment, I am contributing to the design and establishment of a biodiversity monitoring program in Bogotá.
+Prior to this appointment, I was a researcher at the [Instituto Humboldt](http://www.humboldt.org.co/en/ "Instituto Humboldt"), a data analyst at [IDEAM](http://www.ideam.gov.co/ "IDEAM") and the [Instituto Sinchi](https://sinchi.org.co "Sinchi"), and a postdoctoral fellow at the [American Museum of Natural History](https://www.amnh.org/about/gilder-center "AMNH") and the [New York Botanical Garden](https://www.nybg.org/plant-research-and-conservation/ "NYBG").
 
 You can access my cv [here](nrsalinas_cv.pdf "Nelson Salinas CV").
 
@@ -41,9 +43,9 @@ Relevant output:
 
 Nelson R. Salinas  
 nrsalinas@gmail.com  
-Data Analyst Consultant  
-Herbario Amazonico Colombiano COAH
-Instituto Amazónico de Investigaciones Científicas Sinchi
+Data Analyst 
+In Situ Conservation Program
+Jardín Botánico de Bogotá
 Bogotá 
 
 ______

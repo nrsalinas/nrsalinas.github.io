@@ -44,9 +44,9 @@ Relevant output:
 Nelson R. Salinas  
 nrsalinas@gmail.com  
 Data Analyst 
-In Situ Conservation Program
-Jardín Botánico de Bogotá
-Bogotá 
+In Situ Conservation Program  
+Jardín Botánico de Bogotá  
+Bogotá  
 
 ______
 
